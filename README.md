@@ -1,2 +1,2 @@
 # zip-lib-component
-'Windows runtime component' which supports gzip compression
+'Windows runtime component' written in C# which supports gzip compression
